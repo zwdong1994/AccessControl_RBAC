@@ -1,0 +1,2 @@
+
+extern mannager mann;
